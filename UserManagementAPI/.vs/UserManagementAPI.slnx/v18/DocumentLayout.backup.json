@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\CODING\\Github\\UserManagementAPI_Coursera\\UserManagementAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CODING\\Github\\UserManagementAPI_Coursera\\UserManagementAPI\\UserManagementAPI.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagementAPI.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CODING\\Github\\UserManagementAPI_Coursera\\UserManagementAPI\\UserManagementAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagementAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CODING\\Github\\UserManagementAPI_Coursera\\UserManagementAPI\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,32 +27,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserManagementAPI.http",
-              "DocumentMoniker": "C:\\CODING\\Github\\UserManagementAPI_Coursera\\UserManagementAPI\\UserManagementAPI.http",
-              "RelativeDocumentMoniker": "UserManagementAPI.http",
-              "ToolTip": "C:\\CODING\\Github\\UserManagementAPI_Coursera\\UserManagementAPI\\UserManagementAPI.http",
-              "RelativeToolTip": "UserManagementAPI.http",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-10-16T13:14:44.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserManagementAPI.csproj",
-              "DocumentMoniker": "C:\\CODING\\Github\\UserManagementAPI_Coursera\\UserManagementAPI\\UserManagementAPI.csproj",
-              "RelativeDocumentMoniker": "UserManagementAPI.csproj",
-              "ToolTip": "C:\\CODING\\Github\\UserManagementAPI_Coursera\\UserManagementAPI\\UserManagementAPI.csproj",
-              "RelativeToolTip": "UserManagementAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-16T13:14:42.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\CODING\\Github\\UserManagementAPI_Coursera\\UserManagementAPI\\UsersController.cs",
               "RelativeDocumentMoniker": "UsersController.cs",
@@ -73,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CODING\\Github\\UserManagementAPI_Coursera\\UserManagementAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -81,11 +47,12 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T12:53:32.831Z"
+              "WhenOpened": "2025-10-16T12:53:32.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\CODING\\Github\\UserManagementAPI_Coursera\\UserManagementAPI\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
@@ -93,7 +60,8 @@
               "RelativeToolTip": "User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T12:52:54.488Z"
+              "WhenOpened": "2025-10-16T12:52:54.488Z",
+              "EditorCaption": ""
             }
           ]
         }
